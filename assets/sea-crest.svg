@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <!-- Outer Academic Shield -->
+  <path d="M60 6L14 24V58C14 86.5 33.6 109.8 60 116C86.4 109.8 106 86.5 106 58V24L60 6Z" fill="#102747" stroke="#C7A45B" stroke-width="3.5"/>
+  <path d="M60 13L21 28.5V58C21 82.2 37.6 102.3 60 108C82.4 102.3 99 82.2 99 58V28.5L60 13Z" fill="#174E87" stroke="#FFFFFF" stroke-width="1.2" stroke-opacity="0.35"/>
+  <!-- Crimson Chief Band -->
+  <path d="M21 28.5L60 13L99 28.5V43H21V28.5Z" fill="#A92F38"/>
+  <!-- S.E.A. Monogram -->
+  <text x="60" y="37" text-anchor="middle" fill="#FFFFFF" font-family="Plus Jakarta Sans, Manrope, sans-serif" font-weight="800" font-size="15" letter-spacing="2.5">S.E.A.</text>
+  <!-- Open Book & Torch of Knowledge -->
+  <path d="M36 62C44 59 52 60 60 64C68 60 76 59 84 62V82C76 79 68 80 60 84C52 80 44 79 36 82V62Z" fill="#FFFFFF" fill-opacity="0.95"/>
+  <path d="M60 64V84" stroke="#102747" stroke-width="2"/>
+  <path d="M60 46C63.5 50 64 54 60 58C56 54 56.5 50 60 46Z" fill="#C7A45B"/>
+  <!-- Est 2000 Banner -->
+  <rect x="38" y="90" width="44" height="11" rx="2" fill="#102747" stroke="#C7A45B" stroke-width="1"/>
+  <text x="60" y="98" text-anchor="middle" fill="#C7A45B" font-family="Inter, sans-serif" font-weight="700" font-size="7.5" letter-spacing="1.2">ESTD. 2000</text>
+</svg>

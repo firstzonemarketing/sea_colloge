@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" fill="none">
+  <rect width="1200" height="675" fill="#0D213D"/>
+  <g stroke="#1E497A" stroke-width="1">
+    <line x1="0" y1="135" x2="1200" y2="135"/>
+    <line x1="0" y1="270" x2="1200" y2="270"/>
+    <line x1="0" y1="405" x2="1200" y2="405"/>
+    <line x1="0" y1="540" x2="1200" y2="540"/>
+    <line x1="240" y1="0" x2="240" y2="675"/>
+    <line x1="480" y1="0" x2="480" y2="675"/>
+    <line x1="720" y1="0" x2="720" y2="675"/>
+    <line x1="960" y1="0" x2="960" y2="675"/>
+  </g>
+  <!-- Lab Workstations & Computing Screens -->
+  <rect x="120" y="150" width="960" height="390" rx="8" fill="#132F54" stroke="#C7A45B" stroke-width="2"/>
+  <rect x="160" y="195" width="260" height="160" rx="6" fill="#0A192F" stroke="#3875BA" stroke-width="2"/>
+  <rect x="470" y="195" width="260" height="160" rx="6" fill="#0A192F" stroke="#C7A45B" stroke-width="2"/>
+  <rect x="780" y="195" width="260" height="160" rx="6" fill="#0A192F" stroke="#3875BA" stroke-width="2"/>
+  <!-- Code & Circuit Nodes -->
+  <path d="M190 240H320M190 270H380M190 300H290" stroke="#63B3ED" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="560" cy="275" r="36" stroke="#C7A45B" stroke-width="3"/>
+  <circle cx="640" cy="275" r="20" stroke="#A92F38" stroke-width="3"/>
+  <line x1="596" y1="275" x2="620" y2="275" stroke="#FFFFFF" stroke-width="2"/>
+  <path d="M815 315L865 255L915 285L975 225" stroke="#48BB78" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Lab Desks -->
+  <rect x="140" y="410" width="920" height="24" rx="4" fill="#A92F38"/>
+  <text x="600" y="485" text-anchor="middle" fill="#FFFFFF" font-family="Plus Jakarta Sans, sans-serif" font-weight="700" font-size="18" letter-spacing="2">TECHNICAL COMPUTING, AI &amp; RESEARCH LABORATORIES</text>
+</svg>

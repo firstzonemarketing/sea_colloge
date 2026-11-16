@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" fill="none">
+  <rect width="1200" height="675" fill="#132D4E"/>
+  <!-- Residential Towers -->
+  <rect x="190" y="130" width="350" height="430" fill="#F5F6F8" stroke="#102747" stroke-width="2"/>
+  <rect x="660" y="130" width="350" height="430" fill="#F5F6F8" stroke="#102747" stroke-width="2"/>
+  <rect x="190" y="114" width="350" height="16" fill="#A92F38"/>
+  <rect x="660" y="114" width="350" height="16" fill="#A92F38"/>
+  <g fill="#174E87">
+    <rect x="230" y="175" width="75" height="55" rx="2"/>
+    <rect x="330" y="175" width="75" height="55" rx="2"/>
+    <rect x="430" y="175" width="75" height="55" rx="2"/>
+    <rect x="230" y="260" width="75" height="55" rx="2"/>
+    <rect x="330" y="260" width="75" height="55" rx="2"/>
+    <rect x="430" y="260" width="75" height="55" rx="2"/>
+    <rect x="230" y="345" width="75" height="55" rx="2"/>
+    <rect x="330" y="345" width="75" height="55" rx="2"/>
+    <rect x="430" y="345" width="75" height="55" rx="2"/>
+    <rect x="700" y="175" width="75" height="55" rx="2"/>
+    <rect x="800" y="175" width="75" height="55" rx="2"/>
+    <rect x="900" y="175" width="75" height="55" rx="2"/>
+    <rect x="700" y="260" width="75" height="55" rx="2"/>
+    <rect x="800" y="260" width="75" height="55" rx="2"/>
+    <rect x="900" y="260" width="75" height="55" rx="2"/>
+    <rect x="700" y="345" width="75" height="55" rx="2"/>
+    <rect x="800" y="345" width="75" height="55" rx="2"/>
+    <rect x="900" y="345" width="75" height="55" rx="2"/>
+  </g>
+  <rect x="0" y="560" width="1200" height="115" fill="#173F32"/>
+  <text x="600" y="622" text-anchor="middle" fill="#FFFFFF" font-family="Plus Jakarta Sans, sans-serif" font-weight="700" font-size="16" letter-spacing="2.5">ON-CAMPUS RESIDENTIAL HOSTELS &amp; STUDENT AMENITIES</text>
+</svg>

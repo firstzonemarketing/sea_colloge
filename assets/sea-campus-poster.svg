@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" fill="none">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0B1D36"/>
+      <stop offset="55%" stop-color="#14335C"/>
+      <stop offset="100%" stop-color="#1E4B7F"/>
+    </linearGradient>
+    <linearGradient id="facade" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F6F4F0"/>
+      <stop offset="100%" stop-color="#DFDCD4"/>
+    </linearGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#295E96"/>
+      <stop offset="100%" stop-color="#102747"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#sky)"/>
+  <!-- Subtle architectural grid -->
+  <g stroke="#FFFFFF" stroke-opacity="0.05" stroke-width="1">
+    <line x1="0" y1="200" x2="1600" y2="200"/>
+    <line x1="0" y1="400" x2="1600" y2="400"/>
+    <line x1="0" y1="600" x2="1600" y2="600"/>
+    <line x1="400" y1="0" x2="400" y2="900"/>
+    <line x1="800" y1="0" x2="800" y2="900"/>
+    <line x1="1200" y1="0" x2="1200" y2="900"/>
+  </g>
+  <!-- Distant Bengaluru Horizon Glow -->
+  <ellipse cx="800" cy="680" rx="760" ry="180" fill="#C7A45B" fill-opacity="0.14"/>
+  <!-- Main Academic Block Architectural Elevation (SEACET K.R. Puram Campus Representation) -->
+  <!-- Left Wing -->
+  <rect x="140" y="370" width="420" height="310" fill="url(#facade)" stroke="#102747" stroke-width="2"/>
+  <rect x="140" y="352" width="420" height="18" fill="#A92F38"/>
+  <!-- Right Wing -->
+  <rect x="1040" y="370" width="420" height="310" fill="url(#facade)" stroke="#102747" stroke-width="2"/>
+  <rect x="1040" y="352" width="420" height="18" fill="#A92F38"/>
+  <!-- Windows Left Wing -->
+  <g fill="url(#glass)">
+    <rect x="175" y="405" width="65" height="55" rx="2"/>
+    <rect x="260" y="405" width="65" height="55" rx="2"/>
+    <rect x="345" y="405" width="65" height="55" rx="2"/>
+    <rect x="430" y="405" width="65" height="55" rx="2"/>
+    <rect x="175" y="485" width="65" height="55" rx="2"/>
+    <rect x="260" y="485" width="65" height="55" rx="2"/>
+    <rect x="345" y="485" width="65" height="55" rx="2"/>
+    <rect x="430" y="485" width="65" height="55" rx="2"/>
+    <rect x="175" y="565" width="65" height="55" rx="2"/>
+    <rect x="260" y="565" width="65" height="55" rx="2"/>
+    <rect x="345" y="565" width="65" height="55" rx="2"/>
+    <rect x="430" y="565" width="65" height="55" rx="2"/>
+  </g>
+  <!-- Windows Right Wing -->
+  <g fill="url(#glass)">
+    <rect x="1105" y="405" width="65" height="55" rx="2"/>
+    <rect x="1190" y="405" width="65" height="55" rx="2"/>
+    <rect x="1275" y="405" width="65" height="55" rx="2"/>
+    <rect x="1360" y="405" width="65" height="55" rx="2"/>
+    <rect x="1105" y="485" width="65" height="55" rx="2"/>
+    <rect x="1190" y="485" width="65" height="55" rx="2"/>
+    <rect x="1275" y="485" width="65" height="55" rx="2"/>
+    <rect x="1360" y="485" width="65" height="55" rx="2"/>
+    <rect x="1105" y="565" width="65" height="55" rx="2"/>
+    <rect x="1190" y="565" width="65" height="55" rx="2"/>
+    <rect x="1275" y="565" width="65" height="55" rx="2"/>
+    <rect x="1360" y="565" width="65" height="55" rx="2"/>
+  </g>
+  <!-- Central Administrative & Engineering Rotunda -->
+  <rect x="520" y="270" width="560" height="410" fill="#FFFFFF" stroke="#102747" stroke-width="2.5"/>
+  <polygon points="495,270 800,175 1105,270" fill="#102747" stroke="#C7A45B" stroke-width="3"/>
+  <rect x="520" y="270" width="560" height="22" fill="#A92F38"/>
+  <!-- Classical Columns & Grand Portico -->
+  <rect x="565" y="340" width="24" height="340" fill="#E5E2DC"/>
+  <rect x="655" y="340" width="24" height="340" fill="#E5E2DC"/>
+  <rect x="921" y="340" width="24" height="340" fill="#E5E2DC"/>
+  <rect x="1011" y="340" width="24" height="340" fill="#E5E2DC"/>
+  <!-- Central Atrium Curtain Wall -->
+  <rect x="705" y="345" width="190" height="215" rx="4" fill="url(#glass)" stroke="#C7A45B" stroke-width="2"/>
+  <line x1="768" y1="345" x2="768" y2="560" stroke="#FFFFFF" stroke-opacity="0.25" stroke-width="1.5"/>
+  <line x1="832" y1="345" x2="832" y2="560" stroke="#FFFFFF" stroke-opacity="0.25" stroke-width="1.5"/>
+  <line x1="705" y1="415" x2="895" y2="415" stroke="#FFFFFF" stroke-opacity="0.25" stroke-width="1.5"/>
+  <line x1="705" y1="485" x2="895" y2="485" stroke="#FFFFFF" stroke-opacity="0.25" stroke-width="1.5"/>
+  <!-- Entrance Archway -->
+  <path d="M735 680V605C735 580 765 570 800 570C835 570 865 580 865 605V680H735Z" fill="#0B1D36"/>
+  <!-- Building Fascia Title -->
+  <text x="800" y="318" text-anchor="middle" fill="#102747" font-family="Plus Jakarta Sans, sans-serif" font-weight="800" font-size="18" letter-spacing="3">S.E.A. COLLEGE OF ENGINEERING &amp; TECHNOLOGY</text>
+  <!-- Campus Avenue & Green Lawns -->
+  <rect x="0" y="680" width="1600" height="220" fill="#123026"/>
+  <polygon points="690,680 910,680 1160,900 440,900" fill="#2A3647"/>
+  <line x1="800" y1="680" x2="800" y2="900" stroke="#C7A45B" stroke-width="2" stroke-dasharray="14 10"/>
+  <!-- Campus Trees -->
+  <circle cx="110" cy="650" r="55" fill="#1B4D3E"/>
+  <circle cx="170" cy="665" r="42" fill="#225E4C"/>
+  <circle cx="485" cy="655" r="45" fill="#1B4D3E"/>
+  <circle cx="1115" cy="655" r="45" fill="#1B4D3E"/>
+  <circle cx="1430" cy="665" r="42" fill="#225E4C"/>
+  <circle cx="1490" cy="650" r="55" fill="#1B4D3E"/>
+</svg>
