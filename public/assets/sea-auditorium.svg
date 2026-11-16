@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" fill="none">
+  <rect width="1200" height="675" fill="#0A192F"/>
+  <!-- Auditorium Stage & Acoustic Panels -->
+  <polygon points="150,90 1050,90 930,490 270,490" fill="#153259" stroke="#C7A45B" stroke-width="2"/>
+  <rect x="270" y="450" width="660" height="45" fill="#A92F38"/>
+  <circle cx="600" cy="270" r="95" fill="#102747" stroke="#C7A45B" stroke-width="3"/>
+  <text x="600" y="265" text-anchor="middle" fill="#FFFFFF" font-family="Plus Jakarta Sans, sans-serif" font-weight="800" font-size="20" letter-spacing="3">S.E.A. AUDITORIUM</text>
+  <text x="600" y="292" text-anchor="middle" fill="#C7A45B" font-family="Inter, sans-serif" font-weight="600" font-size="12" letter-spacing="2">SYMPOSIUMS • CONVOCATIONS • CULTURAL FESTIVALS</text>
+</svg>
